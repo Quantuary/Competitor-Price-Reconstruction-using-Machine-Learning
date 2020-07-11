@@ -1,2 +1,1 @@
-# Competitor-Price-Reconstruction-using-Gradient-Boosting-via-R
-Reverse engineered the pricing structure using Gradient Boosting.
+# Please see article [here](https://medium.com/@Quantuary/reconstruct-competitor-pricing-using-gradient-boosting-bf5610ff744e)
